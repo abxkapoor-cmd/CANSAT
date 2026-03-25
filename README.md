@@ -1,6 +1,8 @@
 # CANSAT
 CanSat - Crop Health Monitor
+
 A satellite built in a can, launched to 300m altitude to analyse crop health for farmers.
+
 What it does:
 
 Measures temperature, pressure, humidity, and gas concentrations during descent.
@@ -17,4 +19,5 @@ Arducam 5MP camera
 RFM95W LoRa transceiver
 
 Tech: Python, Raspberry Pi Pico, Thonny IDE
+
 Competition: UK CanSat Competition 2024 — reached regional finals
